@@ -39,5 +39,14 @@ sudo [명령]
 --- bash
 pip3 install -U python-dateutil
 ---
+\* 이탤릭체 *
+\_ 이탤릭체 _
+\[ 링크 텍스트 \]
+\= 제목
+`특수 문자`
+~~취소선~~
+$수식$
+<span style="color:red;">빨간색 텍스트</span>
+ㅇㅁㅇ
 
-
+https://www.youtube.com/watch?v=xqroBkpf3
